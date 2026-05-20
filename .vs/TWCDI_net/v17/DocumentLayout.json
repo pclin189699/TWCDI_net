@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\allergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:allergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\careteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:careteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:clinicalnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\clinicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:clinicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\diagnosticimaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:diagnosticimaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:encounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\goalandpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:goalandpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\healthinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:healthinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\immunization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:immunization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\laboratory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:laboratory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:medicaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:problem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\provenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:provenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\summaryandplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:summaryandplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|d:\\e882\\githubrepository\\csh-2026twconnectathon\\sourcecode\\twcdi_net\\vitalsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAD96D-344D-4665-B738-983B88390703}|TWCDI_net.csproj|solutionrelative:vitalsign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-20T02:27:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Problem.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Problem.cs",
+              "RelativeDocumentMoniker": "Problem.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Problem.cs",
+              "RelativeToolTip": "Problem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:25:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VitalSign.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\VitalSign.cs",
+              "RelativeDocumentMoniker": "VitalSign.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\VitalSign.cs",
+              "RelativeToolTip": "VitalSign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:20:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Provenance.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Provenance.cs",
+              "RelativeDocumentMoniker": "Provenance.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Provenance.cs",
+              "RelativeToolTip": "Provenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:20:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Procedure.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Procedure.cs",
+              "RelativeDocumentMoniker": "Procedure.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Procedure.cs",
+              "RelativeToolTip": "Procedure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:19:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SummaryAndPlan.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\SummaryAndPlan.cs",
+              "RelativeDocumentMoniker": "SummaryAndPlan.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\SummaryAndPlan.cs",
+              "RelativeToolTip": "SummaryAndPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:18:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:17:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Medication.cs",
+              "RelativeDocumentMoniker": "Medication.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Medication.cs",
+              "RelativeToolTip": "Medication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:15:33.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalDevice.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\MedicalDevice.cs",
+              "RelativeDocumentMoniker": "MedicalDevice.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\MedicalDevice.cs",
+              "RelativeToolTip": "MedicalDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:14:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Laboratory.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Laboratory.cs",
+              "RelativeDocumentMoniker": "Laboratory.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Laboratory.cs",
+              "RelativeToolTip": "Laboratory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:11:21.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Immunization.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Immunization.cs",
+              "RelativeDocumentMoniker": "Immunization.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Immunization.cs",
+              "RelativeToolTip": "Immunization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:11:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthStatus.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\HealthStatus.cs",
+              "RelativeDocumentMoniker": "HealthStatus.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\HealthStatus.cs",
+              "RelativeToolTip": "HealthStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:09:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthInsurance.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\HealthInsurance.cs",
+              "RelativeDocumentMoniker": "HealthInsurance.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\HealthInsurance.cs",
+              "RelativeToolTip": "HealthInsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:06:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoalAndPreference.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\GoalAndPreference.cs",
+              "RelativeDocumentMoniker": "GoalAndPreference.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\GoalAndPreference.cs",
+              "RelativeToolTip": "GoalAndPreference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:48:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Facility.cs",
+              "RelativeDocumentMoniker": "Facility.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Facility.cs",
+              "RelativeToolTip": "Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:47:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Encounter.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Encounter.cs",
+              "RelativeDocumentMoniker": "Encounter.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Encounter.cs",
+              "RelativeToolTip": "Encounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:46:30.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiagnosticImaging.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\DiagnosticImaging.cs",
+              "RelativeDocumentMoniker": "DiagnosticImaging.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\DiagnosticImaging.cs",
+              "RelativeToolTip": "DiagnosticImaging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:45:17.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClinicalTest.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\ClinicalTest.cs",
+              "RelativeDocumentMoniker": "ClinicalTest.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\ClinicalTest.cs",
+              "RelativeToolTip": "ClinicalTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:44:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClinicalNote.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\ClinicalNote.cs",
+              "RelativeDocumentMoniker": "ClinicalNote.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\ClinicalNote.cs",
+              "RelativeToolTip": "ClinicalNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:42:49.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CareTeam.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\CareTeam.cs",
+              "RelativeDocumentMoniker": "CareTeam.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\CareTeam.cs",
+              "RelativeToolTip": "CareTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:39:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Allergy.cs",
+              "DocumentMoniker": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Allergy.cs",
+              "RelativeDocumentMoniker": "Allergy.cs",
+              "ToolTip": "D:\\E882\\GitHubRepository\\CSH-2026TWConnectathon\\sourcecode\\TWCDI_net\\Allergy.cs",
+              "RelativeToolTip": "Allergy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:37:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
